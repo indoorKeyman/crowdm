@@ -100,6 +100,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> <a> 
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <a>
 
+
 #### AI
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> </a>
@@ -107,8 +108,26 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/keenetic-009EE2?style=flat&logo=keenetic&logoColor=white"/> 
 </a>
-<img src="https:할
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat&logo=huggingface&logoColor=black"/> </a>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> </a>
 
+#### DB
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white"/></a>
+
+#### CI/CD
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Filezilla-BF0000?style=flat&logo=filezilla&logoColor=white"/></a> 
+
+
+## 팀내 역할
 - [indoorkeyman](https://github.com/indoorkeyman)
   #### FE
   > React.js 프로젝트 환경 구축 및 관리 <br>
